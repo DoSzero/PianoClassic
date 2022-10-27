@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PianoClassic</string>
+
+    <string name="btn_home">Играть</string>
+    <string name="pause">Пауза</string>
+
+    <string name="default_score">Счет:</string>
+    <string name="score">Твой счет:</string>
+
+    <string name="gameover">Игра Закончена</string>
+    <string name="playagain">Играть снова</string>
+    <string name="backmenu">Назад к меню</string>
+    <string name="start">Старт</string>
+
+    <string name="settings">Настройки</string>
+    <string name="settings_title">Настройки</string>
+
+    <string name="one">1 - Сложный</string>
+    <string name="three">3 - Базовый</string>
+    <string name="five">5 - Легкий</string>
+
+    <string name="health_count">Счетчик здоровья</string>
+    <string name="exit">Выход</string>
+</resources>
